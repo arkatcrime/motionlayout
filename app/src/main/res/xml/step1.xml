@@ -21,7 +21,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
     </ConstraintSet>
-    
+
     <!-- TODO: Define @id/end -->
     <ConstraintSet android:id="@+id/end">
         <Constraint
