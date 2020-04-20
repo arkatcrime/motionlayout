@@ -74,7 +74,7 @@
                     app:customColorValue="#FFFFFF"
                     />
             </KeyAttribute>
-            
+
             <KeyAttribute
                 app:framePosition="50"
                 app:motionTarget="@id/moon">
